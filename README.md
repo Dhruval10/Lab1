@@ -1,2 +1,3 @@
 # Lab1
-Computer Network
+Design Pattern Solution
+COmputer Science
